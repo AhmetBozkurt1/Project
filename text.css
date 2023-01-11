@@ -1,0 +1,55 @@
+.name{
+    margin-left: 200px;
+}
+
+.box1{
+    width: 1000px;
+    height: 100px;
+    background-color: rgb(237, 227, 227);
+    
+}
+#baslik{
+    text-align: center;
+    font-size: large;
+    margin-top: 0%;
+}
+.box{
+    text-align: center;
+}
+    
+    
+.box2{
+    width: 1000px;
+    height: 100px;
+    margin-top: 10px;
+}
+.content1{
+    width: 330px;
+    height: 120px;
+    float: left;
+    background-color: rgb(179, 191, 202);
+    text-align:center
+    
+}
+.content2{
+    width: 330px;
+    height: 120px;
+    float: left;
+    background-color: aqua;
+    text-align: center;
+    margin-left: 5px;
+}
+.content3{
+    width: 330px;
+    height: 120px;
+    background-color: rgb(100, 100, 119);
+    float: left;
+    text-align: center;
+    margin-left: 5px;
+}
+#altbilgi{
+    padding-top: 15px;
+    padding-left: 35%;
+}
+
+    
